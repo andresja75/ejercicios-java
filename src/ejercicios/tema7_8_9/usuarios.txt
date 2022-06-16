@@ -1,0 +1,5 @@
+juan hernandez garcia: 9.0,
+maria perez perez: 2.4,
+julian arco hernandez: 4.5,
+mariana pelaez sarmiento: 5.7,
+juana patricia delgado: 7.3,
